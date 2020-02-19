@@ -1,0 +1,200 @@
+{
+  "basics": {
+    "name": "Hrvoje Čačić",
+    "label": "System Engineer",
+    "summary": "IT Professional with 7+ years industry experience in diverse technologies and solutions. Specialized in custom system integration and automation. On a constant quest for knowladge be that in large scale ISP solutions or private clouds.",
+    "website": "www.linkedin.com/in/hrvojecacic",
+    "phone": "+385992852017",
+    "email": "nekihrvoje@gmail.com",
+    "picture": true,
+    "location": {
+      "postalCode": "10000",
+      "city": "Zagreb",
+      "countryCode": "Croatia"
+    }
+  },
+  "work": [
+    {
+      "company": "Infobip d.o.o.",
+      "website": "https://www.infobip.com",
+      "position": "Network deployment and integration Engineer",
+      "startDate": "2019-06",
+      "summary": "As a network deployment and integration engineer I work on integration automation and project monitoring. Our stack is fat and thats how we like it. Completing the project and delivering it on time with performance is the main objective.",
+      "highlights": [
+        "Largest Infobip deployment by 2020 - Indosat"
+      ]
+    },
+    {
+      "company": "Bulbtech d.o.o.",
+      "website": "https://www.bulbtech.com",
+      "position": "System Engineer",
+      "startDate": "2014-04",
+      "endDate": "2018-04",
+      "summary": "Being a system engineer in fast growing firm is challenging place that makes you grow. From supporting colleagues, working on bare bones servers to handeling e2e ISP integrations. Prime work consists of scripting and infrastructure deployment.",
+      "highlights": [
+        "Implemented e2e testing infrastructure",
+        "Successful contribution to ongoing projects"
+      ]
+    },
+    {
+      "company": "T-com d.o.o.",
+      "website": "https://www.hrvatskitelekom.com",
+      "position": "Technical support",
+      "startDate": "2010-02",
+      "endDate": "2012-01",
+      "summary": "Working as IT support for IPTV and ADSL. Working on linux, network and debugging skills.",
+      "highlights": [
+        "Successful platform upgrades"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technical school Ruđer Bošković of Zagreb",
+      "courses": [
+        "Computer technician"
+      ],
+      "startDate": "2003-09",
+      "endDate": "2007-05"
+    },
+    {
+      "institution": "The polytechnic of Zagreb",
+      "courses": [
+        "Computer Science"
+      ],
+      "startDate": "2007-09",
+      "endDate": "2010-05"
+    },
+    {
+      "institution": "The polytechnic of Zagreb",
+      "courses": [
+        "Integration and implementation of computer networks"
+      ],
+      "startDate": "2010-09",
+      "endDate": "2013-05"
+    },
+    {
+      "institution": "Algebra",
+      "courses": [
+        "Oracle Database 12c R2: Administration Workshop Ed3 Classroom Training"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Methodical Skills",
+      "level": "advanced",
+      "keywords": [
+        "SCRUM",
+        "BDD",
+        "Agile"
+      ]
+    },
+    {
+      "name": "Business Skills",
+      "level": "master",
+      "keywords": [
+        "System Maintenance",
+        "System Integration"
+      ]
+    },
+    {
+      "name": "IT Skills",
+      "level": "master",
+      "keywords": [
+        "Linux Centos/Redhat",
+        "Monitoring",
+        "Containers",
+        "Networking"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "intermediate",
+      "keywords": [
+        "Bash",
+        "Python",
+        "Oracle"
+      ]
+    },
+    {
+      "name": "Project",
+      "level": "intermediate",
+      "keywords": [
+        "Atlassian",
+        "Git"
+      ]
+    }
+  ],
+
+  "awards": [
+  {
+    "flavor": "award",
+    "title": "Master Q",
+    "date": "2021",
+    "awarder": "Kerbal"
+  }
+],
+  "publications": [
+    {
+      "name": "Need content!",
+      "publisher": "test",
+      "releaseDate": "2017",
+      "website": "aerghre",
+      "summary": "raejtrm."
+    }
+  ],
+  "interests": [
+    {
+      "name": "hiking/nature"
+    },
+    {
+      "name": "arduino/raspberry"
+    },
+    {
+      "name": "bikes"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Croatian",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "Expert"
+    }
+  ],
+  "projects": [
+    {
+      "company": "A1",
+      "name": "ISP cpe administration solution",
+      "description": "Working remotely configuring virtual production centos 7 servers environment with clustering front-end and backend consisting of 5 servers. Everything is custom made bottoms up from the networking level. Successfully staged, tested and deployed to production.",
+      "website": "https://www.a1.hr/",
+      "keywords": [
+        "Java 8, Centos 7, Postgres, Clusterware"
+      ],
+      "roles": "System Engineer"
+    },
+    {
+      "company": "Tcom OTT",
+      "name": "Building OTT video infrastructure for ISP",
+      "description": "Building complete production isp environment for ott solution. Consisting of large video transcoding cluster running on ubuntu to seperate set of front-end and backend servers running clustered java servers to postgres and oracle databases. My involvement was from ground up in all sectors of the project. From the barebones servers to configuration/deployment and application integration testing. It was a long term project with many valuable lessons and a second iteration.",
+      "website": "https://www.hrvatskitelekom.hr",
+      "keywords": [
+        "Linux, Android, Java testing, Scripting/DevOps, r&d, Oracle"
+      ],
+      "roles": "SysOps Engineer"
+    },
+    {
+      "company": "Indosat Ooredoo",
+      "name": "Indosat Ooredoo sms firewall solution",
+      "description": "Integration of sms firewall for a client in Jakarta. Working on interesting networking stack with large amount of traffic running trough big vm cluster. I collaborated with other team members in means of system architecture and integration, deployment as well as PoC.",
+      "website": "https://indosatooredoo.com",
+      "keywords": [
+        "Centos, Ansible, Java 8, Metrics and monitoring stack, Groovy, Python"
+      ],
+      "roles": "Network and deployment engineer"
+    }
+  ]
+}
