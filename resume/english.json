@@ -28,8 +28,8 @@
       "company": "Bulbtech d.o.o.",
       "website": "https://www.bulbtech.com",
       "position": "System Engineer",
-      "startDate": "2014-04",
-      "endDate": "2018-04",
+      "startDate": "2014",
+      "endDate": "2019",
       "summary": "Being a system engineer in fast growing firm is challenging place that makes you grow. From supporting colleagues, working on bare bones servers to handeling e2e ISP integrations. Prime work consists of scripting and infrastructure deployment.",
       "highlights": [
         "Implemented e2e testing infrastructure",
@@ -40,8 +40,8 @@
       "company": "T-com d.o.o.",
       "website": "https://www.hrvatskitelekom.com",
       "position": "Technical support",
-      "startDate": "2010-02",
-      "endDate": "2012-01",
+      "startDate": "2010",
+      "endDate": "2012",
       "summary": "Working as IT support for IPTV and ADSL. Working on linux, network and debugging skills.",
       "highlights": [
         "Successful platform upgrades"
@@ -54,24 +54,24 @@
       "courses": [
         "Computer technician"
       ],
-      "startDate": "2003-09",
-      "endDate": "2007-05"
+      "startDate": "2003",
+      "endDate": "2007"
     },
     {
       "institution": "The polytechnic of Zagreb",
       "courses": [
         "Computer Science"
       ],
-      "startDate": "2007-09",
-      "endDate": "2010-05"
+      "startDate": "2007",
+      "endDate": "2010"
     },
     {
       "institution": "The polytechnic of Zagreb",
       "courses": [
         "Integration and implementation of computer networks"
       ],
-      "startDate": "2010-09",
-      "endDate": "2013-05"
+      "startDate": "2010",
+      "endDate": "2013"
     },
     {
       "institution": "Algebra",
