@@ -2,7 +2,7 @@
   "basics": {
     "name": "Hrvoje Čačić",
     "label": "System Engineer",
-    "summary": "IT Professional with 7+ years industry experience in diverse technologies and solutions. Specialized in custom system integration and automation. On a constant quest for knowladge be that in large scale ISP solutions or private clouds.",
+    "summary": "IT Professional with 8+ years of experience and demonstrated history of working in the IT industry. Skilled from Linux System Administration, different databases to DevOps tool-set I can provide support ranging from software development, architecture, deployments, different types of integrations and more.",
     "website": "www.linkedin.com/in/hrvojecacic",
     "phone": "+385992852017",
     "email": "nekihrvoje@gmail.com",
@@ -14,6 +14,13 @@
     }
   },
   "work": [
+    {
+      "company": "BISS d.o.o.",
+      "website": "https://www.biss.hr",
+      "position": "Senior Enginner for support in development and production",
+      "startDate": "2020-07",
+      "summary": "As DevOps engineer my responsibilities are to automate and speed up code development and deployment with best DevOps practices and arsenal of tools gathered throughout my carrier."
+    },
     {
       "company": "Infobip d.o.o.",
       "website": "https://www.infobip.com",
@@ -95,7 +102,8 @@
       "level": "master",
       "keywords": [
         "System Maintenance",
-        "System Integration"
+        "System Integration",
+        "Devops Practices"
       ]
     },
     {
@@ -137,11 +145,9 @@
 ],
   "publications": [
     {
-      "name": "Need content!",
-      "publisher": "test",
-      "releaseDate": "2017",
-      "website": "aerghre",
-      "summary": "raejtrm."
+      "name": "NekiBlog",
+      "website": "https://nekihrvoje.github.io/nekiblog/",
+      "summary": "Bits and pieces from my work."
     }
   ],
   "interests": [
