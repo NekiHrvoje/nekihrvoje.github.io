@@ -146,8 +146,8 @@
   "publications": [
     {
       "name": "NekiBlog",
-      "website": "https://nekihrvoje.github.io/nekiblog/",
-      "summary": "Bits and pieces from my work."
+      "website": "https://nekiblog.netlify.app/",
+      "summary": "Bits and pieces of my work."
     }
   ],
   "interests": [
