@@ -15,10 +15,18 @@
   },
   "work": [
     {
+      "company": "QED Code Ltd",
+      "website": "https://www.qedcode.net",
+      "position": "Senior Enginner for support in development and production",
+      "startDate": "2021-02",
+      "summary": "To the clouds and beyond! My ascension has started and my power is limitless. "
+    },
+    {
       "company": "BISS d.o.o.",
       "website": "https://www.biss.hr",
       "position": "Senior Enginner for support in development and production",
       "startDate": "2020-07",
+      "endDate": "2021-02",
       "summary": "As DevOps engineer my responsibilities are to automate and speed up code development and deployment with best DevOps practices and arsenal of tools gathered throughout my carrier."
     },
     {
@@ -26,6 +34,7 @@
       "website": "https://www.infobip.com",
       "position": "Network deployment and integration Engineer",
       "startDate": "2019-06",
+      "endDate": "2020-07",
       "summary": "As a network deployment and integration engineer I work on integration automation and project monitoring. Our stack is fat and thats how we like it. Completing the project and delivering it on time with performance is the main objective.",
       "highlights": [
         "Largest Infobip deployment by 2020 - Indosat"
