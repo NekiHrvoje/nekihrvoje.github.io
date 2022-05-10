@@ -2,7 +2,7 @@
   "basics": {
     "name": "Hrvoje Čačić",
     "label": "System Engineer",
-    "summary": "IT Professional with 8+ years of experience and demonstrated history of working in the IT industry. Skilled from Linux System Administration, different databases to DevOps tool-set I can provide support ranging from software development, architecture, deployments, different types of integrations and more.",
+    "summary": "IT Professional with 9+ years of experience and demonstrated history of working in the IT industry. Skilled from Linux System Administration, different databases to DevOps tool-set I can provide support ranging from software development, architecture, deployments, different types of integrations and more.",
     "website": "www.linkedin.com/in/hrvojecacic",
     "phone": "+385992852017",
     "email": "nekihrvoje@gmail.com",
@@ -112,7 +112,7 @@
       "keywords": [
         "System Maintenance",
         "System Integration",
-        "Devops Practices"
+        "DevOps/GitOps Practices"
       ]
     },
     {
@@ -122,7 +122,8 @@
         "Linux Centos/Redhat",
         "Monitoring",
         "Containers",
-        "Networking"
+        "Networking",
+        "Cloud providers/services"
       ]
     },
     {

@@ -11,8 +11,8 @@
     "preview": "preview",
     "deploy": "cp public/* .",
     "debug": "resume test -r resume/english.json",
-    "previewEnglish": "resume serve -r resume/english.json -p 420 english",
-    "previewSkeleton": "resume serve -r resume/skeleton.json -p 422 english"
+    "previewEnglish": "resume serve -r resume/english.json -p 4200 english",
+    "previewSkeleton": "resume serve -r resume/skeleton.json -p 4202 english"
   },
   "bin": {
     "resume": "./node_modules/.bin/resume"
