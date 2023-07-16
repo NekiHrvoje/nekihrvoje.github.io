@@ -305,28 +305,28 @@ section {
 
 #work .item,
 #volunteer .item,
-#awards .item,
+#certifications .item,
 #publications .item {
   margin-bottom: 4rem;
 }
 
 #work .item:last-child,
 #volunteer .item:last-child,
-#awards .item:last-child,
+#certifications .item:last-child,
 #publications .item:last-child {
   margin-bottom: 0;
 }
 
 #work .website,
 #volunteer .website,
-#awards .website,
+#certifications .website,
 #publications .website {
   margin-bottom: 1.4rem;
 }
 
 #work .summary,
 #volunteer .summary,
-#awards .summary,
+#certifications .summary,
 #publications .summary {
   margin-bottom: 1.2rem;
 }
