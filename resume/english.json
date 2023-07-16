@@ -15,11 +15,18 @@
   },
   "work": [
     {
+      "company": "EPAM Systems",
+      "website": "https://www.epam.com",
+      "position": "Senior Enginner for support in development and production",
+      "startDate": "2022-10",
+      "summary": "As a Senior DevOps Engineer in American health care, staying on top of all cloud services is key to my role. I am responsible for implementing efficient CI/CD pipelines, automating deployment processes, and monitoring system performance to ensure seamless and reliable healthcare services are delivered with utmost efficiency and security AWS has to offer."
+    },
+    {
       "company": "QED Code Ltd",
       "website": "https://www.qedcode.net",
       "position": "Senior Enginner for support in development and production",
       "startDate": "2021-02",
-      "summary": "To the clouds and beyond! My ascension has started and my power is limitless. "
+      "summary": "To the clouds and beyond! My ascension has started and my power is limitless."
     },
     {
       "company": "BISS d.o.o.",
@@ -144,15 +151,14 @@
       ]
     }
   ],
-
   "awards": [
-  {
-    "flavor": "award",
-    "title": "Master Q",
-    "date": "2021",
-    "awarder": "Kerbal"
-  }
-],
+    {
+      "flavor": "award",
+      "title": "Master Q",
+      "date": "2021",
+      "awarder": "Kerbal"
+    }
+  ],
   "publications": [
     {
       "name": "NekiBlog",
@@ -182,6 +188,16 @@
     }
   ],
   "projects": [
+    {
+      "company": "EPAM Systems",
+      "name": "Healthcare",
+      "description": "Installing and implementing cutting-edge AWS automation procedures while maintaining an infrastructure-as-code approach. Additionally, providing continuous support to developers, ensuring their objectives are achieved efficiently and with exceptional quality, all in adherence to best DevOps practices.",
+      "website": "https://www.epam.com/",
+      "keywords": [
+        "AWS, ECS, Terraform, SonarQube, DataDog"
+      ],
+      "roles": "System Engineer"
+    },
     {
       "company": "A1",
       "name": "ISP cpe administration solution",
