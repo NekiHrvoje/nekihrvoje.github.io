@@ -2,7 +2,7 @@
   "basics": {
     "name": "Hrvoje Čačić",
     "label": "DevOps Engineer",
-    "summary": "IT Professional with 9+ years of experience and demonstrated history of working in the IT industry. Skilled from Linux System Administration, different databases to DevOps tool-set I can provide support ranging from software development, architecture, deployments, different types of integrations and more.",
+    "summary": "IT Professional with 10+ years of experience and demonstrated history of working in the IT industry. Skilled from Linux System Administration, different databases to DevOps tool-set I can provide support ranging from software development, architecture, deployments, different types of integrations and more.",
     "website": "www.linkedin.com/in/hrvojecacic",
     "phone": "+385992852017",
     "email": "nekihrvoje@gmail.com",
@@ -15,11 +15,27 @@
   },
   "work": [
     {
+        "company": "Undabot",
+        "website": "https://www.undabot.com",
+        "position": "Senior Enginner for support in development and production",
+        "startDate": "2024-04",
+        "summary": "As a Senior DevOps Engineer working with European companies, staying on top of Kubernetes and cloud technologies is crucial to my role. I am responsible for designing and implementing cloud infrastructure, creating scalable CI/CD pipelines, automating deployment processes, and monitoring system performance to ensure that our applications run smoothly and securely. My focus is on leveraging Kubernetes and cloud services to deliver efficient, reliable and compliant solutions that meet the high standards of European enterprises."
+      },
+    {
+      "company": "EPAM Systems",
+      "website": "https://www.epam.com",
+      "position": "Senior Enginner for support in development and production",
+      "startDate": "2022-10",
+      "endDate": "2024-05",
+      "summary": "As a Senior DevOps Engineer in American health care, staying on top of all cloud services is key to my role. I am responsible for implementing efficient CI/CD pipelines, automating deployment processes, and monitoring system performance to ensure seamless and reliable healthcare services are delivered with utmost efficiency and security AWS has to offer."
+    },
+    {
       "company": "QED Code Ltd",
       "website": "https://www.qedcode.net",
       "position": "Senior Enginner for support in development and production",
       "startDate": "2021-02",
-      "summary": "To the clouds and beyond! My ascension has started and my power is limitless. "
+      "endDate": "2022-11",
+      "summary": "To the clouds and beyond! My ascension has started and my power is limitless."
     },
     {
       "company": "BISS d.o.o.",
@@ -123,12 +139,15 @@
         "Monitoring",
         "Containers",
         "Networking",
-        "Cloud providers/services"
+        "Cloud providers/services",
+        "Terraform",
+        "Kubernetes",
+        "Ansible"
       ]
     },
     {
       "name": "Programming",
-      "level": "intermediate",
+      "level": "advanced",
       "keywords": [
         "Bash",
         "Python",
@@ -137,22 +156,27 @@
     },
     {
       "name": "Project",
-      "level": "intermediate",
+      "level": "master",
       "keywords": [
         "Atlassian",
         "Git"
       ]
     }
   ],
-
-  "awards": [
-  {
-    "flavor": "award",
-    "title": "Master Q",
-    "date": "2021",
-    "awarder": "Kerbal"
-  }
-],
+  "certifications": [
+    {
+      "flavor": "certificate",
+      "title": "AWS Solutions Architect Associate",
+      "date": "2023",
+      "awarder": "AWS"
+    },
+    {
+        "flavor": "certificate",
+        "title": "Terraform Associate",
+        "date": "2023",
+        "awarder": "HashiCorp"
+      }
+  ],
   "publications": [
     {
       "name": "NekiBlog",
@@ -183,12 +207,22 @@
   ],
   "projects": [
     {
+      "company": "EPAM Systems",
+      "name": "Healthcare",
+      "description": "Installing and implementing cutting-edge AWS automation procedures while maintaining an infrastructure-as-code approach. Additionally, providing continuous support to developers, ensuring their objectives are achieved efficiently and with exceptional quality, all in adherence to best DevOps practices.",
+      "website": "https://www.epam.com/",
+      "keywords": [
+        "AWS, ECS, Terraform, SonarQube, DataDog"
+      ],
+      "roles": "System Engineer"
+    },
+    {
       "company": "A1",
       "name": "ISP cpe administration solution",
       "description": "Working remotely configuring virtual production centos 7 servers environment with clustering front-end and backend consisting of 5 servers. Everything is custom made bottoms up from the networking level. Successfully staged, tested and deployed to production.",
       "website": "https://www.a1.hr/",
       "keywords": [
-        "Java 8, Centos 7, Postgres, Clusterware"
+        "Java 8, Centos 7, Postgres, RHEL Clusterware, Zabbix"
       ],
       "roles": "System Engineer"
     },
@@ -198,7 +232,7 @@
       "description": "Building complete production isp environment for ott solution. Consisting of large video transcoding cluster running on ubuntu to seperate set of front-end and backend servers running clustered java servers to postgres and oracle databases. My involvement was from ground up in all sectors of the project. From the barebones servers to configuration/deployment and application integration testing. It was a long term project with many valuable lessons and a second iteration.",
       "website": "https://www.hrvatskitelekom.hr",
       "keywords": [
-        "Linux, Android, Java testing, Scripting/DevOps, r&d, Oracle"
+        "Linux, Android & Java testing, Scripting/DevOps, R&D, Oracle administration and clustering"
       ],
       "roles": "SysOps Engineer"
     },
@@ -208,7 +242,7 @@
       "description": "Integration of sms firewall for a client in Jakarta. Working on interesting networking stack with large amount of traffic running trough big vm cluster. I collaborated with other team members in means of system architecture and integration, deployment as well as PoC.",
       "website": "https://indosatooredoo.com",
       "keywords": [
-        "Centos, Ansible, Java 8, Metrics and monitoring stack, Groovy, Python"
+        "Centos, Ansible, Java 8, Metrics and monitoring Prometheus/Graylog/Grafana/Loki, Python"
       ],
       "roles": "Network and deployment engineer"
     }
