@@ -15,6 +15,13 @@
   },
   "work": [
     {
+        "company": "Undabot",
+        "website": "https://www.undabot.com",
+        "position": "Senior Enginner for support in development and production",
+        "startDate": "2024-04",
+        "summary": "As a Senior DevOps Engineer working with European companies, staying on top of Kubernetes and cloud technologies is crucial to my role. I am responsible for designing and implementing cloud infrastructure, creating scalable CI/CD pipelines, automating deployment processes, and monitoring system performance to ensure that our applications run smoothly and securely. My focus is on leveraging Kubernetes and cloud services to deliver efficient, reliable and compliant solutions that meet the high standards of European enterprises."
+      },
+    {
       "company": "EPAM Systems",
       "website": "https://www.epam.com",
       "position": "Senior Enginner for support in development and production",
@@ -130,12 +137,14 @@
         "Monitoring",
         "Containers",
         "Networking",
-        "Cloud providers/services"
+        "Cloud providers/services",
+        "Terraform",
+        "Kubernetes"
       ]
     },
     {
       "name": "Programming",
-      "level": "intermediate",
+      "level": "advanced",
       "keywords": [
         "Bash",
         "Python",
@@ -144,20 +153,26 @@
     },
     {
       "name": "Project",
-      "level": "intermediate",
+      "level": "master",
       "keywords": [
         "Atlassian",
         "Git"
       ]
     }
   ],
-  "awards": [
+  "certifications": [
     {
-      "flavor": "award",
-      "title": "Master Q",
-      "date": "2021",
-      "awarder": "Kerbal"
-    }
+      "flavor": "certificate",
+      "title": "AWS Solutions Architect Associate",
+      "date": "2023",
+      "awarder": "AWS"
+    },
+    {
+        "flavor": "certificate",
+        "title": "Terraform Associate",
+        "date": "2023",
+        "awarder": "HashiCorp"
+      }
   ],
   "publications": [
     {
